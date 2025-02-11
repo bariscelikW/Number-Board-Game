@@ -28,7 +28,7 @@ Ensure you have Python installed (Python 3 recommended).
 
 3. Run the script:
 ```
-python game.py board.txt
+python main.py input.txt
 ```
 
 4. Follow the on-screen instructions to play the game.
