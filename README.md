@@ -28,7 +28,6 @@ Ensure you have Python installed (Python 3 recommended).
 
 3. Run the script:
 ```
-
 python game.py board.txt
 ```
 
@@ -36,7 +35,6 @@ python game.py board.txt
 
 ## Example Input File
 ```
-
 1 2 3 4 5 6 7
 1 2 2 2 2 4 5
 5 5 5 5 5 5 5
